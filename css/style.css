@@ -91,3 +91,14 @@ h3 {
 }
 
 
+.flex-container-text {
+    display: flex;
+}
+
+.black-box {
+    width: 110%;
+    padding: 25px;
+    background-color: black;
+    color: white;
+}
+
