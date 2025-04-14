@@ -65,3 +65,29 @@ h3 {
     margin: auto;
     grid-template-columns: auto 1fr;
 }
+
+
+.grid-image {
+    width: 300px;
+    border-radius: 15px;
+    grid-area: "grid-image";
+}
+
+.section {
+    width: 80%;
+    margin: auto;
+}
+
+
+.section-one {
+    display: flex;
+    gap: 10px;
+}
+
+
+.wrapper {
+    width: 300px;
+    margin: auto;
+}
+
+
