@@ -52,7 +52,7 @@ h3 {
 .image-flex {
     border-radius: 15px;
     width: 500px;
-    margin: 10px;
+    margin: 15px;
 }
 
 .grid-box {
@@ -81,7 +81,7 @@ h3 {
 
 .section-one {
     display: flex;
-    gap: 10px;
+    gap: 15px;
 }
 
 
@@ -98,6 +98,25 @@ h3 {
 .black-box {
     width: 110%;
     padding: 25px;
+    background-color: black;
+    color: white;
+}
+
+.p {
+    flex: 1;
+    padding: 13px;
+}
+
+.btn {
+    border-radius: 6px;
+    padding: 13px;
+    background-color: black;
+    color: white;
+}
+
+.footer {
+    border-radius: 6px;
+    padding: 50px;
     background-color: black;
     color: white;
 }
